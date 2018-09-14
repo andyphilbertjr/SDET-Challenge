@@ -1,0 +1,23 @@
+{
+  "name": "sdet",
+  "version": "1.0.0",
+  "description": "Find the longest word coding challenge",
+  "main": "testSdet.js",
+  "scripts": {
+    "test":"jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyphilbertjr/SDET-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyphilbertjr/SDET-Challenge/issues"
+  },
+  "homepage": "https://github.com/andyphilbertjr/SDET-Challenge#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
