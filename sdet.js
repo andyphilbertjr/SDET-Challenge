@@ -14,13 +14,13 @@ class LongestWord {
       }) 
       return `${ longestWordInSent } ${ longestWordInSent.length }`
     }
-    return 'please enter a string'
+    throw new Error('This method only takes strings as arguments')
   }
 }
 
 let newSentence = new LongestWord()
 
-console.log(newSentence.findLongestWord({}))
+console.log(newSentence.findLongestWord(555555))
 
 //should return a length of string and actual sting
 //is the object being passed in a actual string
