@@ -26,4 +26,5 @@ module.exports = newSentence;
 //should return a length of string and actual sting
 //is the object being passed in a actual string
 //are there unwanted number or punctuations in the string
-//are there multiple words with equal length as the first
+//are there multiple words with equal length as the first longest
+//
