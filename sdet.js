@@ -26,4 +26,3 @@ module.exports= longestWord;
 //is the object being passed in a actual string
 //are there unwanted number or punctuations in the string
 //are there multiple words with equal length as the first longest
-//
