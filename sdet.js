@@ -5,7 +5,7 @@
 //Add a README explaining how to execute your tests.
 //Share via GitHub etc or email.
 
-class LongestWord {
+class longestWord {
   
   findLongestWord(sentence){
     if ( sentence === sentence.toString() ) {
@@ -18,11 +18,10 @@ class LongestWord {
   }
 }
 
-let newSentence = new LongestWord()
+let newPhrase = new longestWord()
+console.log(newPhrase.findLongestWord('the cow jumped over the moon'))
 
-console.log(newSentence.findLongestWord('the cow jumped over the moon.'))
-
-module.exports = newSentence;
+module.exports= longestWord;
 //should return a length of string and actual sting
 //is the object being passed in a actual string
 //are there unwanted number or punctuations in the string
