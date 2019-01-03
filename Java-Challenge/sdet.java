@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 //remove characters in String that are not alpanumeric 
-  //split string into array
+//split string into array
 //if if space its the end of the word 
 // save the first length in a variable 
 // compare the longest word saved to current value
